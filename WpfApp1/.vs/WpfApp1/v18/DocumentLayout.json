@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|c:\\users\\evsee\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0445\u0443\u0439\u043D\u044F\\\u0445\u0443\u0435\u0442\u0435\u043D\u044C\\xyina\\wpfapp1\\addedittovar.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|solutionrelative:addedittovar.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\addedittovar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|solutionrelative:addedittovar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\pagetovar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|solutionrelative:pagetovar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\pagetovar.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|solutionrelative:pagetovar.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|solutionrelative:products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\pagetovar2.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|solutionrelative:pagetovar2.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\pagetovar2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|solutionrelative:pagetovar2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\pagetovar3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|solutionrelative:pagetovar3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|solutionrelative:mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\pagetovar3.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|solutionrelative:pagetovar3.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\Products.cs",
+              "RelativeDocumentMoniker": "Products.cs",
+              "ToolTip": "C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\Products.cs",
+              "RelativeToolTip": "Products.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T10:25:12.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAhwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T09:33:15.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-01T09:33:14.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PageTovar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\PageTovar.xaml.cs",
+              "RelativeDocumentMoniker": "PageTovar.xaml.cs",
+              "ToolTip": "C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\PageTovar.xaml.cs",
+              "RelativeToolTip": "PageTovar.xaml.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T09:42:23.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEditTovar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\AddEditTovar.xaml.cs",
+              "RelativeDocumentMoniker": "AddEditTovar.xaml.cs",
+              "ToolTip": "C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\AddEditTovar.xaml.cs",
+              "RelativeToolTip": "AddEditTovar.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswBkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T09:34:35.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PageTovar.xaml",
+              "DocumentMoniker": "C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\PageTovar.xaml",
+              "RelativeDocumentMoniker": "PageTovar.xaml",
+              "ToolTip": "C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\PageTovar.xaml",
+              "RelativeToolTip": "PageTovar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-27T12:36:58.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PageTovar2.xaml",
+              "DocumentMoniker": "C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\PageTovar2.xaml",
+              "RelativeDocumentMoniker": "PageTovar2.xaml",
+              "ToolTip": "C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\PageTovar2.xaml",
+              "RelativeToolTip": "PageTovar2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-01T09:30:24.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PageTovar2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\PageTovar2.xaml.cs",
+              "RelativeDocumentMoniker": "PageTovar2.xaml.cs",
+              "ToolTip": "C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\PageTovar2.xaml.cs",
+              "RelativeToolTip": "PageTovar2.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T09:43:18.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEditTovar.xaml",
+              "DocumentMoniker": "C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\AddEditTovar.xaml",
+              "RelativeDocumentMoniker": "AddEditTovar.xaml",
+              "ToolTip": "C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\AddEditTovar.xaml",
+              "RelativeToolTip": "AddEditTovar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-05T09:31:10.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PageTovar3.xaml",
+              "DocumentMoniker": "C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\PageTovar3.xaml",
+              "RelativeDocumentMoniker": "PageTovar3.xaml",
+              "ToolTip": "C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\PageTovar3.xaml",
+              "RelativeToolTip": "PageTovar3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-01T09:30:25.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PageTovar3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\PageTovar3.xaml.cs",
+              "RelativeDocumentMoniker": "PageTovar3.xaml.cs",
+              "ToolTip": "C:\\Users\\evsee\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0423\u0419\u041D\u042F\\\u0425\u0423\u0415\u0422\u0415\u041D\u042C\\xyina\\WpfApp1\\PageTovar3.xaml.cs",
+              "RelativeToolTip": "PageTovar3.xaml.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T09:38:55.743Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

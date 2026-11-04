@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\cs\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|D:\\code\\cs\\WpfApp1\\tovar2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|solutionrelative:tovar2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|d:\\code\\cs\\wpfapp1\\tovar2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|solutionrelative:tovar2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|D:\\code\\cs\\WpfApp1\\tovar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|solutionrelative:tovar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|D:\\code\\cs\\WpfApp1\\tovar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|solutionrelative:tovar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|d:\\code\\cs\\wpfapp1\\addeditorderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|solutionrelative:addeditorderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|d:\\code\\cs\\wpfapp1\\addeditorderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|solutionrelative:addeditorderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|d:\\code\\cs\\wpfapp1\\orderswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|solutionrelative:orderswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|d:\\code\\cs\\wpfapp1\\orderswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|solutionrelative:orderswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|d:\\code\\cs\\wpfapp1\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|solutionrelative:orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|d:\\code\\cs\\wpfapp1\\edittovar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|solutionrelative:edittovar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|D:\\code\\cs\\WpfApp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|D:\\code\\cs\\WpfApp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|D:\\code\\cs\\WpfApp1\\tovar3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCFFA19-03FE-4DE1-9817-4523E45D3AED}|WpfApp1.csproj|solutionrelative:tovar3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tovar2.xaml",
+              "DocumentMoniker": "D:\\code\\cs\\WpfApp1\\tovar2.xaml",
+              "RelativeDocumentMoniker": "tovar2.xaml",
+              "ToolTip": "D:\\code\\cs\\WpfApp1\\tovar2.xaml",
+              "RelativeToolTip": "tovar2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-04T14:05:56.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEditOrderWindow.xaml.cs",
+              "DocumentMoniker": "D:\\code\\cs\\WpfApp1\\AddEditOrderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AddEditOrderWindow.xaml.cs",
+              "ToolTip": "D:\\code\\cs\\WpfApp1\\AddEditOrderWindow.xaml.cs",
+              "RelativeToolTip": "AddEditOrderWindow.xaml.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAuwPgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T14:03:49.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddEditOrderWindow.xaml",
+              "DocumentMoniker": "D:\\code\\cs\\WpfApp1\\AddEditOrderWindow.xaml",
+              "RelativeDocumentMoniker": "AddEditOrderWindow.xaml",
+              "ToolTip": "D:\\code\\cs\\WpfApp1\\AddEditOrderWindow.xaml",
+              "RelativeToolTip": "AddEditOrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-04T14:03:39.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdersWindow.xaml.cs",
+              "DocumentMoniker": "D:\\code\\cs\\WpfApp1\\OrdersWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OrdersWindow.xaml.cs",
+              "ToolTip": "D:\\code\\cs\\WpfApp1\\OrdersWindow.xaml.cs",
+              "RelativeToolTip": "OrdersWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T14:03:21.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "D:\\code\\cs\\WpfApp1\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "OrderViewModel.cs",
+              "ToolTip": "D:\\code\\cs\\WpfApp1\\OrderViewModel.cs",
+              "RelativeToolTip": "OrderViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T14:03:07.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdersWindow.xaml",
+              "DocumentMoniker": "D:\\code\\cs\\WpfApp1\\OrdersWindow.xaml",
+              "RelativeDocumentMoniker": "OrdersWindow.xaml",
+              "ToolTip": "D:\\code\\cs\\WpfApp1\\OrdersWindow.xaml",
+              "RelativeToolTip": "OrdersWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-04T14:02:20.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tovar.xaml",
+              "DocumentMoniker": "D:\\code\\cs\\WpfApp1\\tovar.xaml",
+              "RelativeDocumentMoniker": "tovar.xaml",
+              "ToolTip": "D:\\code\\cs\\WpfApp1\\tovar.xaml",
+              "RelativeToolTip": "tovar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-04T05:23:01.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "tovar3.xaml.cs",
+              "DocumentMoniker": "D:\\code\\cs\\WpfApp1\\tovar3.xaml.cs",
+              "RelativeDocumentMoniker": "tovar3.xaml.cs",
+              "ToolTip": "D:\\code\\cs\\WpfApp1\\tovar3.xaml.cs",
+              "RelativeToolTip": "tovar3.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T05:11:57.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tovar2.xaml.cs",
+              "DocumentMoniker": "D:\\code\\cs\\WpfApp1\\tovar2.xaml.cs",
+              "RelativeDocumentMoniker": "tovar2.xaml.cs",
+              "ToolTip": "D:\\code\\cs\\WpfApp1\\tovar2.xaml.cs",
+              "RelativeToolTip": "tovar2.xaml.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowFUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T05:11:57.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tovar.xaml.cs",
+              "DocumentMoniker": "D:\\code\\cs\\WpfApp1\\tovar.xaml.cs",
+              "RelativeDocumentMoniker": "tovar.xaml.cs",
+              "ToolTip": "D:\\code\\cs\\WpfApp1\\tovar.xaml.cs",
+              "RelativeToolTip": "tovar.xaml.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAYwKkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T05:11:56.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\code\\cs\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\code\\cs\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwDwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T05:11:53.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "edittovar.xaml.cs",
+              "DocumentMoniker": "D:\\code\\cs\\WpfApp1\\edittovar.xaml.cs",
+              "RelativeDocumentMoniker": "edittovar.xaml.cs",
+              "ToolTip": "D:\\code\\cs\\WpfApp1\\edittovar.xaml.cs",
+              "RelativeToolTip": "edittovar.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T05:06:33.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\code\\cs\\WpfApp1\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\code\\cs\\WpfApp1\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-11-02T22:30:19.883Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

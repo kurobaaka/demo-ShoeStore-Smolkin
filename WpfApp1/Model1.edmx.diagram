@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9df9793adc924a8cb69f70cb31f90d5a" Name="Diagram1">
+        <EntityTypeShape EntityType="ShoeStore_Evseenko4Model.categoryid" Width="1.5" PointX="0.75" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoeStore_Evseenko4Model.nameproduct" Width="1.5" PointX="0.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoeStore_Evseenko4Model.nameproizvod" Width="1.5" PointX="0.75" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoeStore_Evseenko4Model.order" Width="1.5" PointX="3" PointY="15.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoeStore_Evseenko4Model.orderlist" Width="1.5" PointX="5.25" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoeStore_Evseenko4Model.PickupPoints" Width="1.5" PointX="0.75" PointY="13.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoeStore_Evseenko4Model.postavwik" Width="1.5" PointX="0.75" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoeStore_Evseenko4Model.Products" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoeStore_Evseenko4Model.Role" Width="1.5" PointX="1.5" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoeStore_Evseenko4Model.status" Width="1.5" PointX="0.75" PointY="16" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoeStore_Evseenko4Model.sysdiagrams" Width="1.5" PointX="5.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ShoeStore_Evseenko4Model.Users" Width="1.5" PointX="0.75" PointY="18.375" IsExpanded="true" />
+        <AssociationConnector Association="ShoeStore_Evseenko4Model.FK_Products_categoryid" ManuallyRouted="false" />
+        <AssociationConnector Association="ShoeStore_Evseenko4Model.FK_Products_nameproduct" ManuallyRouted="false" />
+        <AssociationConnector Association="ShoeStore_Evseenko4Model.FK_Products_nameproizvod" ManuallyRouted="false" />
+        <AssociationConnector Association="ShoeStore_Evseenko4Model.FK_order_PickupPoints" ManuallyRouted="false" />
+        <AssociationConnector Association="ShoeStore_Evseenko4Model.FK_order_status" ManuallyRouted="false" />
+        <AssociationConnector Association="ShoeStore_Evseenko4Model.FK_order_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="ShoeStore_Evseenko4Model.FK_orderlist_order" ManuallyRouted="false" />
+        <AssociationConnector Association="ShoeStore_Evseenko4Model.FK_orderlist_Products" ManuallyRouted="false" />
+        <AssociationConnector Association="ShoeStore_Evseenko4Model.FK_Products_postavwik" ManuallyRouted="false" />
+        <AssociationConnector Association="ShoeStore_Evseenko4Model.FK_Users_Role" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

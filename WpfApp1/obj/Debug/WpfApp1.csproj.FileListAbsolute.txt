@@ -1,0 +1,168 @@
+C:\Users\student\Desktop\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\WpfApp1\obj\Debug\App.g.cs
+C:\Users\student\Desktop\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\student\Desktop\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\student\Desktop\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\student\Desktop\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\student\Desktop\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\student\Desktop\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\student\Desktop\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\student\Desktop\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\student\Desktop\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\student\Desktop\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\student\Desktop\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\student\Desktop\WpfApp1\obj\Debug\WpfApp1.exe.config
+C:\Users\student\Desktop\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\student\Desktop\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\student\Desktop\WpfApp1\obj\Debug\PageTovar.g.cs
+C:\Users\student\Desktop\WpfApp1\obj\Debug\PageTovar.baml
+C:\Users\student\Desktop\WpfApp1\obj\Debug\PageTovar2.g.cs
+C:\Users\student\Desktop\WpfApp1\obj\Debug\PageTovar3.g.cs
+C:\Users\student\Desktop\WpfApp1\obj\Debug\PageTovar2.baml
+C:\Users\student\Desktop\WpfApp1\obj\Debug\PageTovar3.baml
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\WpfApp1\bin\Debug\WpfApp1.exe.config
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\WpfApp1\bin\Debug\WpfApp1.exe
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\WpfApp1\bin\Debug\WpfApp1.pdb
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\WpfApp1\bin\Debug\EntityFramework.dll
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\WpfApp1\bin\Debug\EntityFramework.xml
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\WpfApp1\obj\Debug\WpfApp1.exe.config
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\WpfApp1\obj\Debug\MainWindow.g.cs
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\WpfApp1\obj\Debug\PageTovar.g.cs
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\WpfApp1\obj\Debug\PageTovar2.g.cs
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\WpfApp1\obj\Debug\PageTovar3.g.cs
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\WpfApp1\obj\Debug\App.g.cs
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\WpfApp1\obj\Debug\MainWindow.baml
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\WpfApp1\obj\Debug\PageTovar.baml
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\WpfApp1\obj\Debug\PageTovar2.baml
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\WpfApp1\obj\Debug\PageTovar3.baml
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\WpfApp1\obj\Debug\WpfApp1.g.resources
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\WpfApp1\obj\Debug\WpfApp1.exe
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\WpfApp1\obj\Debug\WpfApp1.pdb
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\р\WpfApp1\bin\Debug\WpfApp1.exe.config
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\р\WpfApp1\bin\Debug\WpfApp1.exe
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\р\WpfApp1\bin\Debug\WpfApp1.pdb
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\р\WpfApp1\bin\Debug\EntityFramework.dll
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\р\WpfApp1\bin\Debug\EntityFramework.xml
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\р\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\р\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\р\WpfApp1\obj\Debug\WpfApp1.exe.config
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\р\WpfApp1\obj\Debug\MainWindow.g.cs
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\р\WpfApp1\obj\Debug\PageTovar.g.cs
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\р\WpfApp1\obj\Debug\PageTovar2.g.cs
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\р\WpfApp1\obj\Debug\PageTovar3.g.cs
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\р\WpfApp1\obj\Debug\App.g.cs
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\р\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\р\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\р\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\р\WpfApp1\obj\Debug\MainWindow.baml
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\р\WpfApp1\obj\Debug\PageTovar.baml
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\р\WpfApp1\obj\Debug\PageTovar2.baml
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\р\WpfApp1\obj\Debug\PageTovar3.baml
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\р\WpfApp1\obj\Debug\WpfApp1.g.resources
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\р\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\р\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\р\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\р\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\р\WpfApp1\obj\Debug\WpfApp1.exe
+\\15_45_4\для студентов (свободный доступ)\amnyam4ik\р\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\evsee\Desktop\xyina\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\evsee\Desktop\xyina\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\evsee\Desktop\xyina\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\evsee\Desktop\xyina\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\evsee\Desktop\xyina\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\evsee\Desktop\xyina\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\evsee\Desktop\xyina\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\evsee\Desktop\xyina\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\evsee\Desktop\xyina\WpfApp1\obj\Debug\PageTovar.g.cs
+C:\Users\evsee\Desktop\xyina\WpfApp1\obj\Debug\PageTovar2.g.cs
+C:\Users\evsee\Desktop\xyina\WpfApp1\obj\Debug\PageTovar3.g.cs
+C:\Users\evsee\Desktop\xyina\WpfApp1\obj\Debug\App.g.cs
+C:\Users\evsee\Desktop\xyina\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\evsee\Desktop\xyina\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\evsee\Desktop\xyina\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\evsee\Desktop\xyina\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\evsee\Desktop\xyina\WpfApp1\obj\Debug\PageTovar.baml
+C:\Users\evsee\Desktop\xyina\WpfApp1\obj\Debug\PageTovar2.baml
+C:\Users\evsee\Desktop\xyina\WpfApp1\obj\Debug\PageTovar3.baml
+C:\Users\evsee\Desktop\xyina\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\evsee\Desktop\xyina\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\evsee\Desktop\xyina\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\evsee\Desktop\xyina\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\evsee\Desktop\xyina\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\evsee\Desktop\xyina\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\evsee\Desktop\xyina\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\obj\Debug\PageTovar.g.cs
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\obj\Debug\PageTovar2.g.cs
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\obj\Debug\PageTovar3.g.cs
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\obj\Debug\App.g.cs
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\obj\Debug\PageTovar.baml
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\obj\Debug\PageTovar2.baml
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\obj\Debug\PageTovar3.baml
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\obj\Debug\AddEditTovar.g.cs
+C:\Users\evsee\OneDrive\Рабочий стол\ХУЙНЯ\ХУЕТЕНЬ\xyina\WpfApp1\obj\Debug\AddEditTovar.baml
+D:\code\cs\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\code\cs\WpfApp1\bin\Debug\WpfApp1.exe
+D:\code\cs\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\code\cs\WpfApp1\bin\Debug\EntityFramework.dll
+D:\code\cs\WpfApp1\bin\Debug\EntityFramework.xml
+D:\code\cs\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+D:\code\cs\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\code\cs\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\code\cs\WpfApp1\obj\Debug\App.g.cs
+D:\code\cs\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+D:\code\cs\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\code\cs\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\code\cs\WpfApp1\obj\Debug\MainWindow.baml
+D:\code\cs\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\code\cs\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\code\cs\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\code\cs\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\code\cs\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+D:\code\cs\WpfApp1\obj\Debug\WpfApp1.exe
+D:\code\cs\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\code\cs\WpfApp1\obj\Debug\WpfApp1.exe.config
+D:\code\cs\WpfApp1\obj\Debug\tovar.g.cs
+D:\code\cs\WpfApp1\obj\Debug\tovar2.g.cs
+D:\code\cs\WpfApp1\obj\Debug\tovar3.g.cs
+D:\code\cs\WpfApp1\obj\Debug\tovar.baml
+D:\code\cs\WpfApp1\obj\Debug\tovar2.baml
+D:\code\cs\WpfApp1\obj\Debug\tovar3.baml
+D:\code\cs\WpfApp1\obj\Debug\edittovar.g.cs
+D:\code\cs\WpfApp1\obj\Debug\edittovar.baml
+D:\code\cs\WpfApp1\obj\Debug\AddEditOrderWindow.baml
+D:\code\cs\WpfApp1\obj\Debug\OrdersWindow.baml
+D:\code\cs\WpfApp1\obj\Debug\AddEditOrderWindow.g.cs
+D:\code\cs\WpfApp1\obj\Debug\OrdersWindow.g.cs
